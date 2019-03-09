@@ -1,2 +1,5 @@
 avocado
 cilantro
+tomato
+lime
+onion
